@@ -4,7 +4,7 @@
 
 > Highly customizable, drop-in Bootstrap replacement.
 
-Halfmoon is a highly customizable, drop-in Bootstrap replacement. It comes with three built-in core themes, with dark mode support for all themes and components. Build beautiful and responsive websites and applications.
+Halfmoon is a highly customizable, drop-in Bootstrap replacement. It comes with three built-in core themes, with dark mode supports for all themes and components. Build beautiful and responsive websites and applications.
 
 To learn more, please read [the documentation](https://www.gethalfmoon.com/docs/introduction/).
 
@@ -12,7 +12,7 @@ To learn more, please read [the documentation](https://www.gethalfmoon.com/docs/
 
 We implement no JavaScript on our own, therefore, there is no  `halfmoon.js`  (or anything similar). Instead we rely entirely on  `bootstrap.bundle.js`, which you can  [download from Bootstrap's website](https://getbootstrap.com/docs/5.3/getting-started/download/). This means that you can replace  `bootstrap.css`  with  `halfmoon.css`  on your website, and everything should work exactly as expected.
 
-This also means that you can use any of the Bootstrap component libraries for popular JS frameworks such as React, Vue, Angular, Svelte, etc.
+This also means that you can use any of the Bootstrap component libraries for popular JS frameworks such as Reactjs, Vuejs, Angularjs, Svelte, etc.
 
 ## Starter template
 
